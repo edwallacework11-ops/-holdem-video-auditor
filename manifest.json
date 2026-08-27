@@ -1,0 +1,8 @@
+{
+  "name": "Hold'em Video Auditor",
+  "short_name": "Holdem Auditor",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "background_color": "#0b0c0f",
+  "theme_color": "#0e0f12"
+}
