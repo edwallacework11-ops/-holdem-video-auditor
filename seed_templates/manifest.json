@@ -1,0 +1,94 @@
+[
+  {
+    "label": "6h",
+    "file": "seed_templates/6h_1_board1.jpg"
+  },
+  {
+    "label": "Kh",
+    "file": "seed_templates/Kh_1_board2.jpg"
+  },
+  {
+    "label": "3h",
+    "file": "seed_templates/3h_1_board3.jpg"
+  },
+  {
+    "label": "Js",
+    "file": "seed_templates/Js_1_player1.jpg"
+  },
+  {
+    "label": "As",
+    "file": "seed_templates/As_1_player2.jpg"
+  },
+  {
+    "label": "8h",
+    "file": "seed_templates/8h_2_dealer1.jpg"
+  },
+  {
+    "label": "9c",
+    "file": "seed_templates/9c_2_dealer2.jpg"
+  },
+  {
+    "label": "4s",
+    "file": "seed_templates/4s_2_board1.jpg"
+  },
+  {
+    "label": "3d",
+    "file": "seed_templates/3d_2_board2.jpg"
+  },
+  {
+    "label": "6d",
+    "file": "seed_templates/6d_2_board3.jpg"
+  },
+  {
+    "label": "10s",
+    "file": "seed_templates/Ts_2_board4.jpg"
+  },
+  {
+    "label": "2d",
+    "file": "seed_templates/2d_2_board5.jpg"
+  },
+  {
+    "label": "2c",
+    "file": "seed_templates/2c_2_player1.jpg"
+  },
+  {
+    "label": "Ah",
+    "file": "seed_templates/Ah_2_player2.jpg"
+  },
+  {
+    "label": "7h",
+    "file": "seed_templates/7h_3_dealer1.jpg"
+  },
+  {
+    "label": "As",
+    "file": "seed_templates/As_3_dealer2.jpg"
+  },
+  {
+    "label": "7c",
+    "file": "seed_templates/7c_3_board1.jpg"
+  },
+  {
+    "label": "Kd",
+    "file": "seed_templates/Kd_3_board2.jpg"
+  },
+  {
+    "label": "8c",
+    "file": "seed_templates/8c_3_board3.jpg"
+  },
+  {
+    "label": "3c",
+    "file": "seed_templates/3c_3_board4.jpg"
+  },
+  {
+    "label": "Qc",
+    "file": "seed_templates/Qc_3_board5.jpg"
+  },
+  {
+    "label": "8s",
+    "file": "seed_templates/8s_3_player1.jpg"
+  },
+  {
+    "label": "5d",
+    "file": "seed_templates/5d_3_player2.jpg"
+  }
+]
